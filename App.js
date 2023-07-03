@@ -1,20 +1,17 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+
+//메인에 세팅할 네비게이션 도구들을 가져옵니다.
+import {NavigationContainer} from '@react-navigation/native';
+import StackNavigator from './navigation/StackNavigator'
+
+
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
-}
+  console.disableYellowBox = true;
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+  return (
+  <NavigationContainer>
+    <StackNavigator/>
+  </NavigationContainer>
+  )
+};

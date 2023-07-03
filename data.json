@@ -1,0 +1,46 @@
+{
+    "tip":[
+        { 
+          "date" : "2023-05-15",
+          "banchan1" : "현미밥",
+          "banchan2" : "달래두부된장국",
+          "banchan3" : "검정콩조림",
+          "banchan4" : "배추김치"
+        },
+        { 
+          "date" : "2023-05-16",
+          "banchan1" : "찹쌀밥",
+          "banchan2" : "두부찌개",
+          "banchan3" : "쑥갓나물",
+          "banchan4" : "배추김치"
+        },
+        { 
+          "date" : "2023-05-17",
+          "banchan1" : "쌀밥",
+          "banchan2" : "소고기무국",
+          "banchan3" : "나비",
+          "banchan4" : "배추김치"
+        },
+        { 
+          "date" : "2023-05-18",
+          "banchan1" : "잡곡밥",
+          "banchan2" : "쇠고기미역국",
+          "banchan3" : "생선조림",
+          "banchan4" : "총각김치"
+        },
+        { 
+          "date" : "2023-05-19",
+          "banchan1" : "콩밥",
+          "banchan2" : "쇠고기미역국",
+          "banchan3" : "느타리맛살볶음",
+          "banchan4" : "총각김치"
+        },
+        { 
+          "date" : "2023-05-20",
+          "banchan1" : "쌀밥",
+          "banchan2" : "된장국",
+          "banchan3" : "북어찜",
+          "banchan4" : "총각김치"
+        }
+    ]
+}
